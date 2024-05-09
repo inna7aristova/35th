@@ -1,4 +1,4 @@
 # 35th
 h1 {
-    color: orange;
+    color: red;
     text-align: center;
