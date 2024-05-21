@@ -1,5 +1,5 @@
 # 35th
 h1 {
-    color: orange
+    color: blue18
 ;
     text-align: center;
