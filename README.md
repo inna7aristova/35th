@@ -2,4 +2,4 @@
 h1 {
     color: red hot
 ;
-    text-align: center0 03249;
+    text-align: center0 01;
