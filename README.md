@@ -1,5 +1,5 @@
 # 35th
 h1 {
-    color: red hot
+    color: blue hot
 ;
     text-align: center0 03;
