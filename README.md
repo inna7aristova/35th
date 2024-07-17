@@ -2,5 +2,5 @@
 h1 {
     color: blue hott
 ;
-    text-align: center0 022;
+    text-align: centeral;
 >
