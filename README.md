@@ -1,6 +1,6 @@
 # 35th
 h1 {
-    color: blue start
+    color: blue red
 ;
     text-align: centeral;
 >
