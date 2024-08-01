@@ -2,5 +2,5 @@
 h1 {
     color: blue redi
 ;
-    text-align: centeral;
+    text-align: centerall;
 >
