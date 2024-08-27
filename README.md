@@ -1,6 +1,6 @@
 # 35th
 h1 {
-    color: blue one!!
+    color: blue 018!
 ;
     text-align: centerall;
 >
